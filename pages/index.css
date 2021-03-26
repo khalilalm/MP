@@ -1,9 +1,12 @@
+*{
+    font:Red Hat Display;
+}
 .signup-page{
    
    background-image: linear-gradient( #FFC700 0%, #FF00B8 );
 }
 .signup-container{
-    background-color: #151371 ;
+    background-color: #312ec5 ;
     border: 1px solid black;
     width:400px;
     height:600px;
